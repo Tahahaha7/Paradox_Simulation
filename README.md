@@ -1,4 +1,4 @@
-# Paradox_simulation
+# Paradox_Simulation
 Mathematical and experimental proofs
 
 - Kelly Criterion experiment
